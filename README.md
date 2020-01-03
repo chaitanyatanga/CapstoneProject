@@ -1,4 +1,2 @@
 # CapstoneProject
-yo
-yo
-yo
+This is the capstone Project
