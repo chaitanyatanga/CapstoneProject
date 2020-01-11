@@ -1,2 +1,2 @@
-# CapstoneProject
-This is the capstone Project for IBM Data Science Specalization
+# IBM Data Science Certfication
+This work was done as part of IBM Data Science Specalization
